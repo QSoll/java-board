@@ -34,6 +34,7 @@ CREATE TABLE BOARDS (
   name VARCHAR(255) NOT NULL
 
 );
+```
 
 Rollback:
 
